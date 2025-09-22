@@ -1,5 +1,7 @@
 ## Fankaar.ai
 
+https://artisan-frontend-720826867173.us-central1.run.app
+
 ### Data Flow Diagram
 
 ![Data Flow Diagram](../dfd.svg)
