@@ -6,8 +6,6 @@ https://artisan-frontend-720826867173.us-central1.run.app
 
 ![](https://i.postimg.cc/R0qMtB3H/Screenshot-2025-09-24-at-3-15-53-AM.png)
 
-![](https://i.postimg.cc/R0qMtB3H/Screenshot-2025-09-24-at-3-15-53-AM.png)
-
 ![](https://i.postimg.cc/wvLY5T97/Screenshot-2025-09-24-at-3-19-11-AM.png)
 
 ![](https://i.postimg.cc/SxBZ6LRf/Screenshot-2025-09-24-at-3-19-45-AM.png)
