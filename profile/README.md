@@ -12,6 +12,8 @@ https://artisan-frontend-720826867173.us-central1.run.app
 
 ![](https://i.postimg.cc/SxBZ6LRf/Screenshot-2025-09-24-at-3-19-45-AM.png)
 
+![](https://i.postimg.cc/cHgkwDMh/Screenshot-2025-09-24-at-3-57-54-AM.png)
+
 ![](https://i.postimg.cc/prLkWqcR/Screenshot-2025-09-24-at-3-22-06-AM.png)
 
 ![](https://i.postimg.cc/MGJDMW3s/Screenshot-2025-09-24-at-3-24-11-AM.png)
