@@ -1,6 +1,6 @@
 ## Fankaar.ai
 
-https://artisan-frontend-720826867173.us-central1.run.app
+(https://artisan-frontend-latest.onrender.com/)
 
 ![Introducing Fankaar.ai](https://i.postimg.cc/1tffyF0b/Screenshot-2025-09-24-at-3-07-54-AM.png)
 
